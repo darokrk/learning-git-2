@@ -1,0 +1,12 @@
+====== autoprexifer command: ======
+
+autoprefixer-cli -o style.css style.prefixed.css (ma czytać z pliku style.css i zapisywać wynik do pliku style.prefixed.css)
+
+====== Nu-HTML-Checker =======
+
+$npm run test
+
+npm run test:html
+
+nu-html-checker *.html (sprawdza poprawność kodu HTML i wyświetla listę ew. błędów)
+
