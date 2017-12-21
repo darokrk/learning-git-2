@@ -1,6 +1,9 @@
 body {
-  background-color: red;
-  color: black;
+  background-color: blue;
+  color: green;
+  font-size: 20px;
+  display: flex;
+  flex-wrap: wrap;
 }
 
 /*# sourceMappingURL=style.css.map */
