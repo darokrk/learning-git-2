@@ -1,11 +1,3 @@
-body {
-  background-color: red;
-  color: red;
-}
+body { background-color: red; color: red; }
 
-.test {
-  display: flex;
-  flex-wrap: wrap;
-}
-
-/*# sourceMappingURL=style.css.map */
+.test { display: flex; flex-wrap: wrap; }
